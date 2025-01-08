@@ -5,7 +5,11 @@ VisualStudioVersion = 17.8.34330.188
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemSolvingTask", "ProblemSolvingTask.csproj", "{892E96E8-4A32-4000-9A58-ECE0CFDBC828}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WatermelonSS", "..\WatermelonSS\WatermelonSS.csproj", "{B3A3C3A7-CFE1-4898-9D0C-F70EABBF8E71}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WatermelonSS", "..\WatermelonSS\WatermelonSS.csproj", "{B3A3C3A7-CFE1-4898-9D0C-F70EABBF8E71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WayTooLongWords", "..\WayTooLongWords\WayTooLongWords.csproj", "{D0B01658-B07F-4BD7-B602-DD7CA75661AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "231ATeam", "..\231ATeam\231ATeam.csproj", "{0F3C158F-7792-4B20-95E1-DAE0F36FEE26}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{B3A3C3A7-CFE1-4898-9D0C-F70EABBF8E71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B3A3C3A7-CFE1-4898-9D0C-F70EABBF8E71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B3A3C3A7-CFE1-4898-9D0C-F70EABBF8E71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B01658-B07F-4BD7-B602-DD7CA75661AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B01658-B07F-4BD7-B602-DD7CA75661AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B01658-B07F-4BD7-B602-DD7CA75661AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B01658-B07F-4BD7-B602-DD7CA75661AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F3C158F-7792-4B20-95E1-DAE0F36FEE26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F3C158F-7792-4B20-95E1-DAE0F36FEE26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F3C158F-7792-4B20-95E1-DAE0F36FEE26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F3C158F-7792-4B20-95E1-DAE0F36FEE26}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
